@@ -1,6 +1,6 @@
-# 平台代码实现概述 (2024年10月份最新版)
+# 多平台发布视频逆向代码实现概述 (2024年10月份最新版)
 
-所有平台代码均通过 Python 实现，Python 版本 3.10+，不基于 headless browser，全部通过调接口实现，执行效率更高，风控风险更小。
+各平台的发布视频代码均通过 Python 实现，Python 版本 3.10+，不基于 headless browser，全部通过调接口实现，执行效率更高，风控风险更小。
 
 ## 一、抖音
 1. 登录创作者平台，拷贝出 cookie，以及此时浏览器 local storage 里的 `security-sdk/s_sdk_crypt_sdk` 中的 `ec_privateKey`，还有 `security-sdk/s_sdk_sign_data_key/web_protect` 里的 `ts_sign`；
