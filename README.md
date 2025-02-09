@@ -36,6 +36,4 @@
 
 # 联系我
 
-<img src="./img/donate.jpg" width="33.3%" />
-
-如果对上述技术感兴趣，可以加WX `wfeifan0` 进行技术交流～
+如果对上述技术感兴趣，可以加WX `wfeifan0` 欢迎咨询交流～
