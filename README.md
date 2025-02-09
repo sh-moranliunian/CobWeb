@@ -1,4 +1,4 @@
-# 多平台发布视频逆向代码实现 (2024年11月份最新版)
+# 多平台发布视频逆向代码实现 (2025年2月份最新版)
 
 各平台的发布视频代码均通过 Python 实现，Python 版本 3.10+，不基于 headless browser，全部通过调接口实现，执行效率更高，风控风险更小。
 
@@ -26,9 +26,13 @@
 2. 提供 `ns_sig3` 签名算法；
 3. 支持视频切片、上传、发布全流程；
 
-# donate
+# 客户端体验下载链接
 
-如果该项目对您有帮助，欢迎微信打赏
+- **macOS ARM芯片**：[MatriX-Lite 0.4.5 ARM64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-arm64.dmg)
+- **macOS Intel芯片**：[MatriX-Lite 0.4.5 X64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-x64.dmg)
+- **Windows**：[MatriX-Lite 0.4.5 X64 Setup](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/matrix-lite-0.4.5-x64-setup.exe)
+
+# 联系我
 
 <img src="./img/donate.jpg" width="33.3%" />
 
