@@ -31,6 +31,8 @@
 - **macOS ARM芯片**：[MatriX-Lite 0.4.5 ARM64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-arm64.dmg)
 - **macOS Intel芯片**：[MatriX-Lite 0.4.5 X64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-x64.dmg)
 - **Windows**：[MatriX-Lite 0.4.5 X64 Setup](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/matrix-lite-0.4.5-x64-setup.exe)
+## 客户端使用说明文档
+[使用说明文档](https://hcnspeemjow3.feishu.cn/docx/Qo1cdvG3nogIRVx6BYkcdTpsn8b)
 
 # 联系我
 
