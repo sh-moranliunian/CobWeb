@@ -26,7 +26,7 @@
 2. 提供 `ns_sig3` 签名算法；
 3. 支持视频切片、上传、发布全流程；
 
-# 客户端体验下载链接
+# 客户端免费体验下载链接
 
 - **macOS ARM芯片**：[MatriX-Lite 0.4.5 ARM64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-arm64.dmg)
 - **macOS Intel芯片**：[MatriX-Lite 0.4.5 X64](https://sense-video.oss-cn-hangzhou.aliyuncs.com/wsb/matrix/MatriX-Lite-0.4.5-x64.dmg)
